@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Number Guessing Game</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='game.css') }}" />
+</head>
+<body>
+  <div class="game-container" id="game-box">
+    <h1>🔢 Guess The Number!</h1>
+    <p class="message">Pick a number between 1 and 100</p>
 
+    <div class="input-section">
+      <input type="number" id="guess-input" placeholder="Enter guess..." min="1" max="100">
+      <button id="guess-btn">GUESS</button>
+    </div>
+
+    <button id="reset-btn" class="reset">🔄 Reset Game</button>
+  </div>
+
+  <script src="{{ url_for('static', filename='game.js') }}"></script>
+</body>
+</html>
