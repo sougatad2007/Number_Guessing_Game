@@ -2,7 +2,7 @@
 
 A bold, interactive, and visually striking number guessing game built with a modern **neo-brutalist UI** and smooth backend logic.
 
-![Game Screenshot](./interface/materials/screenshot.png)  
+![Game Screenshot](./interface/materials/Screenshot.png)  
 
 👉 **[Try out by your own](https://number-guessing-game-x97n.onrender.com)**
 
