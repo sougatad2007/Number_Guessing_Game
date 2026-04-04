@@ -51,7 +51,7 @@ This project is a result of strong collaboration and clear division of roles:
 - **Sougata**  
   ➤ Handled the complete **Backend architecture** (Flask server, game logic, API routing)
 
-- **Adarsh (GitHub: adarshjaiswal-clushXD)**  
+- **Adarsh (GitHub: adarsh-clushXD)**  
   ➤ Designed and developed the complete **Frontend** (Neo-brutalist UI, animations, client-side logic)
 
 > 💡 Together, the team combined design and logic to deliver a seamless and engaging user experience.
